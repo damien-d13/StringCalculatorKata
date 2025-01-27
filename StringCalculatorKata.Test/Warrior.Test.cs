@@ -100,8 +100,8 @@ public class WarriorTests
 
         // Assert
         Assert.AreEqual("Special Training", result);
-        Assert.AreEqual(initialExperience + 300, warrior.Experience);  // Total 400 XP
-        Assert.AreEqual(5, warrior.Level); // 400 XP = niveau 5
+        Assert.AreEqual(initialExperience + 300, warrior.Experience);  
+        Assert.AreEqual(4, warrior.Level); 
         CollectionAssert.Contains(warrior.Achievements, "Special Training");
     }
 

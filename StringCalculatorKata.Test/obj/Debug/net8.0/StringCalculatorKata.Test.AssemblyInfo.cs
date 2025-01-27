@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StringCalculatorKata.Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b26e2694fb366029ee60e4989d827bf952389339")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a34e66d5b04711ff86931970bfb057506f14c979")]
 [assembly: System.Reflection.AssemblyProductAttribute("StringCalculatorKata.Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StringCalculatorKata.Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
